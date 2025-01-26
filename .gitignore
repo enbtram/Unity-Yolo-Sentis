@@ -1,0 +1,6 @@
+*.sln
+*.csproj
+Logs
+Library
+.vscode
+Assets/Yolo/Yolo models
